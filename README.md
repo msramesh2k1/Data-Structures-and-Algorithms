@@ -1,7 +1,7 @@
 ## Hey peeps 🧑‍💻
 
 Are you interested in solving DSA? But you feel hard 
-to find solutions, Don't worry here we came up with intresting
+to find solutions, Don't worry here we came up with interesting
 repo full of solutions.
 
 ![20220111_154505_0000](https://user-images.githubusercontent.com/54928117/148924219-2480793e-83d1-4760-ac93-f0bbb9648fbd.jpg)
